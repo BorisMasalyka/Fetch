@@ -1,0 +1,83 @@
+[
+    {
+        "nombre": "Auto Deportivo",
+        "marca": "Ferrari",
+        "modelo": "812GTS",
+        "precio": 60000000,
+        "stock": 30,
+        "img": "812GTS.jpg"
+    },
+    {
+        "nombre": "Auto Deportivo",
+        "marca": "Ferrari",
+        "modelo": "296GTB",
+        "precio": 35000000,
+        "stock": 20,
+        "img": "296GTB.jpeg"
+    },
+    {
+        "nombre": "Auto Deportivo",
+        "marca": "Ferrari",
+        "modelo": "296GTS",
+        "precio": 57000000,
+        "stock": 15,
+        "img": "296GTS.jpg"
+    },
+    {
+        "nombre": "Auto Deportivo",
+        "marca": "Ferrari",
+        "modelo": "SF90 Stradale",
+        "precio": 8000000,
+        "stock": 30,
+        "img": "SF90 Stradale.jpg"
+    },
+    {
+        "nombre": "Auto Deportivo",
+        "marca": "Ferrari",
+        "modelo": "SF90 Spider",
+        "precio": 1400000,
+        "stock": 7,
+        "img": "SF90 Spider.jpg"
+    },
+    {
+        "nombre": "Auto Deportivo",
+        "marca": "Ferrari",
+        "modelo": "F8 Tributo",
+        "precio": 4000000,
+        "stock": 20,
+        "img": "F8 Tributo.jfif"
+    },
+    {
+        "nombre": "Auto Deportivo",
+        "marca": "Ferrari",
+        "modelo": "F8 Spider",
+        "precio": 25000000,
+        "stock": 10,
+        "img": "F8 Spider.jpg"
+    },
+    {
+        "nombre": "Auto Deportivo",
+        "marca": "Ferrari",
+        "modelo": "Roma",
+        "precio": 45000000,
+        "stock": 30,
+        "img": "Roma.jpg"
+    },
+    {
+        "nombre": "Auto Deportivo",
+        "marca": "Ferrari",
+        "modelo": "Portofino M",
+        "precio": 34000000,
+        "stock": 21,
+        "img": "Portofino M.jpg"
+    },
+    {
+        "nombre": "Auto Deportivo",
+        "marca": "Ferrari",
+        "modelo": "812 Competizione",
+        "precio": 13000000,
+        "stock": 25,
+        "img": "812 Competizione.jpg"
+    }
+    
+]
